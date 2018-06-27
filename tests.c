@@ -1,7 +1,7 @@
 /*
- *  OSCam self tests
- *  This file contains tests for different config parsers and generators
- *  Build this file using `make tests`
+ * OSCam self tests
+ * This file contains tests for different config parsers and generators
+ * Build this file using `make tests`
  */
 #include "globals.h"
 
